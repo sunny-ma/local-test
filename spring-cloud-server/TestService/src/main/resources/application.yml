@@ -1,0 +1,16 @@
+snowflake:
+  string: string
+#  list:
+#    - workId: 0
+#      datacenterId: 0
+#      ip: 192.168
+#    - workId: 0
+#      datacenterId: 1
+#      ip: 193.168
+#    - workId: 0
+#      datacenterId: 2
+#      ip: 193.168
+#  list:
+#     - ip: 10.203.2.1621
+#       workId: 0
+#       datacenterId: 1
